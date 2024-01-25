@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "Caracas Onto Death",
+      "Year": "2000",
+      "imdbID": "tt0247796",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzAxODYxM15BMl5BanBnXkFtZTcwNDA3NTYzMQ@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Mission spéciale à Caracas",
+      "Year": "1965",
+      "imdbID": "tt0059452",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMmQ4ZWQtZWYyNC00YzZmLWJlMzEtZDg0ZTJhNWJlNTczXkEyXkFqcGdeQXVyNjUzNzcwMjc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Um Filme do Caraças",
+      "Year": "2023",
+      "imdbID": "tt28327276",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU1MjE4ZDUtYTIwYS00MmQ4LWExMzktYzk3NjE4MGI4ZTQyXkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "El hombre de Caracas",
+      "Year": "1967",
+      "imdbID": "tt0061517",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBiNzMxZGEtY2M5NS00MDFiLTlmY2MtNDIyM2FmNDk5ZThkXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Sherlock Holmes en Caracas",
+      "Year": "1991",
+      "imdbID": "tt0102905",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Caracas",
+      "Year": "1989",
+      "imdbID": "tt0097014",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjOTA2OGEtMDgxMy00MDI2LWI2ZTItNjkxNjY2YzBiZTBkXkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Caracas, Las Dos Caras de La Vida",
+      "Year": "2012",
+      "imdbID": "tt5271198",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "La Caracas",
+      "Year": "2011",
+      "imdbID": "tt2110426",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTRjOTUyZjItYTRhOC00YTY3LTg1MjEtYWRhOTBkZTQ0N2U3XkEyXkFqcGdeQXVyODI1MTg4MTk@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Caracas",
+      "Year": "2006",
+      "imdbID": "tt2364730",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Caracas En Moto",
+      "Year": "2012",
+      "imdbID": "tt2553636",
+      "Type": "movie",
+      "Poster": "N/A"
+    }
+  ],
+  "totalResults": "27",
+  "Response": "True"
+}
